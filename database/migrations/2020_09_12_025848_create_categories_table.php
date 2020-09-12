@@ -7,7 +7,8 @@ use Illuminate\Support\Facades\Schema;
 class CreateCategoriesTable extends Migration
 {
     /**
-     * Run the migrations.
+     *
+     * 
      *
      * @return void
      */
